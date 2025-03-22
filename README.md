@@ -124,6 +124,11 @@ lms-cursor/
 - Integration with external book databases
 - Online reading capability for digital content
 
+## Developer
+
+- Piyush Mangalam Bajaj
+- https://www.linkedin.com/in/piyush-mangalam-bajaj-6a995a236/
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
